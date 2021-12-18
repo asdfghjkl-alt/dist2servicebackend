@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "Edward-Liu",
+    "DB_PASSWORD": "Edw@rdo3",
+    "DB_NAME": "node-rest-shop",
+    "JWT_KEY": "supersecret_dont_share"
+  }
+}
